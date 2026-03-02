@@ -2,9 +2,9 @@
 
 int main(void)
 {
-	printf("2 + 3 = %d\n", 2 + 3);
-	printf("2 - 3 = %d\n", 2 - 3);
-	printf("2 * 3 = %d\n", 2 * 3);
-	printf("2 / 3 = %d\n", 2 / 3);
+	printf("7 + 8 = %d\n", 7 + 8);
+	printf("7 - 8 = %d\n", 7 - 8);
+	printf("7 * 8 = %d\n", 7 * 8);
+	printf("7 / 8 = %d\n", 7 / 8);
 	return 0;
 }
