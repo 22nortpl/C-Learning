@@ -2,8 +2,9 @@
 
 int main(void)
 {
-	printf("Hello World!");
-	printf("El Patron");
-
+	printf("2 + 3 = %d\n", 2 + 3);
+	printf("2 - 3 = %d\n", 2 - 3);
+	printf("2 * 3 = %d\n", 2 * 3);
+	printf("2 / 3 = %d\n", 2 / 3);
 	return 0;
 }
